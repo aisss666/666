@@ -1,0 +1,12 @@
+id
+name
+tournament
+name
+image
+start at
+home team
+name
+logo
+away team
+name
+logo
